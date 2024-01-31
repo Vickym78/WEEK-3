@@ -46,7 +46,7 @@
 
 ## Problem Sheet Link
 
-Find the questions for this week's problem sheet [here](<[insert-link-to-problem-sheet](https://drive.google.com/drive/folders/1mRMH4EsLHmQiDYAQF_amgmaCutDeH-pc?usp=sharing)>).
+Find the questions for this week's problem sheet [here](https://drive.google.com/drive/folders/1mRMH4EsLHmQiDYAQF_amgmaCutDeH-pc?usp=sharing).
 
 ---
 
